@@ -1,9 +1,9 @@
-import elencoCorinthians from "./elenco.js";
-import elencoCorinthians2024 from "./elenco2024.js";
-import atacantesCorinthians from "./atacantes.js";
-import meiasCorinthians from "./meias.js";
-import defensoresCorinthians from "./defensores.js";
-import goleirosCorinthians from "./goleiros.js";
+import elencoCorinthians from "./routes/elenco.js";
+import elencoCorinthians2024 from "./routes/elenco2024.js";
+import atacantesCorinthians from "./routes/atacantes.js";
+import meiasCorinthians from "./routes/meias.js";
+import defensoresCorinthians from "./routes/defensores.js";
+import goleirosCorinthians from "./routes/goleiros.js";
 import express from "express"
 
 const app = express();
