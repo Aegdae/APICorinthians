@@ -19,6 +19,7 @@ Bem-vindo à API do Corinthians! Este projeto fornece dados sobre o elenco atual
 - **JavaScript ES6+**: Para código mais moderno e legível.
 
 ## 📂 Estrutura do Projeto
+```plaintext
 APICorinthinas/
 ├── node_modules/ # Dependências do projeto gerenciadas pelo npm 
 ├── routes/ # Contém as rotas da API 
@@ -31,6 +32,7 @@ APICorinthinas/
 ├── app.js # Arquivo principal que inicializa o servidor e configura as rotas 
 ├── package.json # Gerenciamento de dependências e metadados do projeto 
 └── package-lock.json # Controle de versão das dependências instaladas
+```
 
 
 - **`/data`**: Contém os arquivos de dados do elenco e suas divisões por posições.
