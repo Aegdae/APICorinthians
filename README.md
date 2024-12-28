@@ -21,17 +21,17 @@ Bem-vindo à API do Corinthians! Este projeto fornece dados sobre o elenco atual
 ## 📂 Estrutura do Projeto
 ```plaintext
 APICorinthinas/
-├── node_modules/ # Dependências do projeto gerenciadas pelo npm 
-├── routes/ # Contém as rotas da API 
+├── node_modules/
+├── routes/
 │    ├── atacantes.js 
 │    ├── defensores.js 
 │    ├── goleiros.js 
 │    ├── meias.js 
 │    ├── elenco.js 
 │    └── elenco2024.js 
-├── app.js # Arquivo principal que inicializa o servidor e configura as rotas 
-├── package.json # Gerenciamento de dependências e metadados do projeto 
-└── package-lock.json # Controle de versão das dependências instaladas
+├── app.js
+├── package.json
+└── package-lock.json
 ```
 
 
@@ -101,7 +101,14 @@ Retorna os goleiros do elenco atual.
 
 ---
 
+## 📝 Licença
+
+Este projeto está licenciado sob a [LICENSE](LICENSE).
+
+---
+
 ### 💬 Contato
 
 Se tiver dúvidas ou sugestões, entre em contato:
+- **Email**: jonnathasg@gmail.com
 - **GitHub**: [Aegdae](https://github.com/Aegdae)
