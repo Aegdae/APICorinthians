@@ -1,4 +1,4 @@
-# API do Corinthians 🏆⚽
+# API do Corinthians
 
 Bem-vindo à API do Corinthians! Este projeto fornece dados sobre o elenco atual, elenco de 2024, e informações separadas por posições, como atacantes, meias, defensores e goleiros.
 
