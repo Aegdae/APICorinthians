@@ -7,7 +7,7 @@ import goleirosCorinthians from "./routes/goleiros.js";
 import express from "express"
 
 const app = express();
-const PORT = 3000;
+const PORT = 3505;
 
 app.listen(PORT, () => console.log('Servidor iniciado'))
 
