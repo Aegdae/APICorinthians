@@ -203,13 +203,6 @@ const elencoCorinthians = [
         'assistencias': 0,
     },
     {
-        'nome': 'Pedro Henrique',
-        'idade': '34 anos',
-        'jogos': 0,
-        'gols': 0,
-        'assistencias': 0,
-    },
-    {
         'nome': 'Talles Magno',
         'idade': '22 anos',
         'jogos': 0,
